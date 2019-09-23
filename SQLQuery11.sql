@@ -1,0 +1,6 @@
+USE MY_SQL_TEST_FINAL
+
+INSERT INTO 
+	StartDate()
+VALUES 
+	('2018-01-15')
